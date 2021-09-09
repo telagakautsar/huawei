@@ -4,17 +4,9 @@
     {
       "status_redirect":"",
       "link_redirect":"",
-      "admob_inter":"",
-      "admob_banner":"",
-      "admob_open_ads":"",
-      "select_ads":"ADMOB",
-      "interval":"",
-      "unityID":"",
-      "unity_banner":"",
-      "unity_inter":"",
-      "startappid":""   ,
-      "kidoz_pub_id":"",
-      "kidoz_token":""
+      "huawei_inter":"teste9ih9j0rc3",
+      "huawei_banner":"testw6vs28auh3",
+      "interval": 5
     }
   ],
  
