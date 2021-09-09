@@ -1,0 +1,59 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"CUTE CAT",
+      "image":"https://cldup.com/sFBH_0zEEM.jpg"
+    },
+    {
+      "title":"CUTE CAT 2",
+        "image":"https://cldup.com/LdHt_ij38f.jpg"
+    },
+    {
+      "title":"CUTE CAT 3",
+         "image":"https://cldup.com/dZ3mCqRRDf.jpg"
+    },
+    {
+      "title":"CUTE CAT 4",
+        "image":"https://cldup.com/hqaW_yTFXZ.jpg"
+    },
+	{
+      "title":"CUTE CAT 5",
+        "image":"https://cldup.com/48240h4Uqp.jpg"
+    },
+	{
+      "title":"CUTE CAT 6",
+        "image":"https://cldup.com/CTKTytMEKC.jpg"
+    },
+	{
+      "title":"CUTE CAT 7",
+        "image":"https://cldup.com/yTEg9pE9H5.jpg"
+    },
+	{
+      "title":"CUTE CAT 8",
+        "image":"https://cldup.com/JDZjv3q1nB.jpg"
+    }
+	
+	
+  ]
+
+}
