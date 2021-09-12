@@ -1,0 +1,81 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "huawei_inter":"",
+      "huawei_banner":"",
+      "interval": 5
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/FEmtFw8AGi.jpg"
+    },
+	{
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/qrCNNa-dN7.jpg"
+    },
+	{
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/M9Vy2ph1TJ.jpg"
+    },
+	{
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/z56C8TxBpn.jpg"
+    },
+	{
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/mQAP5J4AJx.jpg"
+    },
+	{
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/u9UitFT_fO.jpg"
+    },
+	{
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/A0TKJ_qWcD.jpg"
+    },
+	{
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/rr2eoKbs7j.jpg"
+    },
+	{
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/ehPAAHNpgU.jpg"
+    },
+	{
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/p-sZVo8m0D.jpg"
+    },
+	{
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/csb0Rs_tFB.jpg"
+    },
+	{
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/jdf_ZpPhyG.jpg"
+    },
+	{
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/Fo6PEhU6dR.jpg"
+    },
+	{
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/R5zU2Usg7R.jpg"
+    },
+	{
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/NLYqGp1wO8.jpg"
+    },
+	{
+      "title":"Cutest Dog",
+      "image":"https://cldup.com/MmQhSchO2U.jpg"
+    }
+  ]
+
+}
