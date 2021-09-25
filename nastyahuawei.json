@@ -1,0 +1,49 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "huawei_inter":"",
+      "huawei_banner":"",
+      "interval": 5
+    }
+  ],
+ 
+  "Data":
+  [
+   {
+      "title":"Puzzle 1",
+         "image":"https://cldup.com/KXjmmmIk5Z.jpg"
+    },
+	{
+      "title":"Puzzle 2",
+         "image":"https://cldup.com/leT_GfMzBR.jpg"
+    },
+	{
+      "title": "Puzzle 3",
+        "image":"https://cldup.com/ipsoFNnifP.jpg"
+    },
+    {
+      "title":"Puzzle 4",
+         "image":"https://cldup.com/Pm19_3zR-B.jpg"
+    },
+	{
+      "title":"Puzzle 5",
+        "image":"https://cldup.com/i3JfbWy9Ha.jpg"
+    },
+	{
+      "title":"Puzzle 6",
+         "image":"https://cldup.com/iu2GUTfbiX.jpg"
+    },
+	{
+      "title": "Puzzle 7",
+        "image":"https://cldup.com/ResJ9u-NFg.jpg"
+    },
+    {
+      "title":"Puzzle 8",
+         "image":"https://cldup.com/_Bsxkax6XS.jpg"
+    }
+  ]
+
+}
